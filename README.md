@@ -1,13 +1,13 @@
 MAMPE: Physische Legitimation für KI-Infrastruktur
 
 ​Wir schlagen die Brücke zwischen digitalen Algorithmen und industrieller Realität.
-MAMPE Industrial Design entwickelt die physischen Schnittstellen für die KI-Ära – kein „Science-Fiction“, sondern Engineering mit chirurgischem Fokus.
+MAMPE Industrial Design entwickelt die physischen Schnittstellen für die KI-Ära – kein „Science-Fiction“, sondern Engineering mit klarem Fokus.
 
 ​Unsere Kernkompetenzen für Technologieträger:
 
 ​Rechtssichere GISA-Integration: Mechatronische Umsetzung industrieller Assets unter voller Berücksichtigung der gesetzlichen Normen und Sicherheitsstandards.
 
-​Anforderungsgerechte Systemlösungen: Wir konstruieren Gehäuse- und Trägersysteme mit bedarfsorientierter Materialwahl – von hochreinem Edelstahl bis hin zu fortschrittlichen Verbundstoffen, präzise abgestimmt auf Ihre Einsatzumgebung.
+​Anforderungsgerechte Systemlösungen: Wir konstruieren Gehäuse- und Trägersysteme mit bedarfsorientierter Materialwahl – vom Edelstahl bis hin zu fortschrittlichen Verbundwerkstoffen, präzise abgestimmt auf Ihre Einsatzumgebung.
 
 ​Operative Gesamtverantwortung: 
 
