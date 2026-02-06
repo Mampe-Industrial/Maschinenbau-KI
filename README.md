@@ -11,23 +11,29 @@ Unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wi
 ​Wir bieten keine Standardlösungen, sondern sezierten komplexe technische Herausforderungen mit chirurgischem Fokus.
 
 ​1. Baugruppen-Optimierung & Value Engineering
-​Wir optimieren bestehende Baugruppen für höchste Effizienz.
-​Redesign for Manufacturing (DfM): Wir passen Konstruktionen so an, dass sie in der CNC-Fertigung kostengünstiger und in der Montage schneller umsetzbar sind.
 
-​Analytische Diagnose: Wir finden mechanische Schwachstellen und beheben sie durch gezieltes Re-Engineering.
+​Wir optimieren bestehende Baugruppen für höchste Effizienz.
+​Redesign for Manufacturing: 
+Wir passen Konstruktionen so an, dass sie in der CNC-Fertigung kostengünstiger und in der Montage schneller umsetzbar sind.
+
+​Analytische Diagnose: 
+Wir finden mechanische Schwachstellen und beheben sie durch gezieltes Re-Engineering.
 
 ​2. Mechatronischer Sondermaschinenbau
 ​Wir konstruieren und bauen intelligente Systeme für sensible Umgebungen.
 
-​Reinraum-Handling: Entwicklung von Komponenten und Handling-Systemen für kontrollierte Industrieumgebungen (Silicon Alps Standard).
+​Reinraum-Handling: 
+Entwicklung von Komponenten und Handling-Systemen für kontrollierte Industrieumgebungen (Silicon Alps Standard).
 
 ​KI-Infrastruktur: Bau von hochstabilen Gehäusesystemen und Trägerstrukturen für Edge-Computing und industrielle Sensorik.
 
 ​3. Rechtssichere Hardware-Legitimation
 ​Als staatlich befugter Betrieb (§ 150 Abs. 15 GewO) garantieren wir die Einhaltung industrieller Standards.
-​GISA-konforme Umsetzung: Wir übernehmen die volle mechatronische Haftung für die von uns in Verkehr gebrachten Systeme.
+​GISA-konforme Umsetzung: 
+Wir übernehmen die volle mechatronische Haftung für die von uns in Verkehr gebrachten Systeme.
 
-​Konformitätsbewertung: Wir begleiten Projekte von der ersten Skizze bis zur rechtssicheren Abnahme.
+​Konformitätsbewertung: 
+Wir begleiten Projekte von der ersten Skizze bis zur rechtssicheren Abnahme.
 ​Fertigungstiefe & Technical Stack
 ​Wir verbinden digitale Planung mit physischer Fertigung in einer lückenlosen Kette:
 
@@ -38,7 +44,7 @@ Unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wi
 ​Innovation: Integration von KI-gestützten Workflows zur Beschleunigung des Designprozesses.
 
 ​Qualifikation & Befugnis
-​NQR 6: Ingenieur-Zertifizierung auf gehobenem technischem Niveau (Bachelor-Äquivalent).
+​NQR 6: Ingenieur-Zertifizierung auf gehobenem technischem Niveau.
 ​Gewerbeberechtigung: Reglementiertes Handwerk der Mechatronik gemäß § 150 Abs. 15 GewO.
 ​Expertise: Jahrzehntelange Erfahrung im Sondermaschinenbau und der Medizintechnik.
 
