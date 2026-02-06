@@ -4,7 +4,7 @@ MAMPE Industrial Design | Engineering & Legitimation
 
 ​Wir sind ein spezialisierter Maschinenbaubetrieb, der mechatronische Präzision mit analytischem Engineering verbindet.
 
-Unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wir die physische Infrastruktur für die Industrie von morgen.
+Unter der Leitung von Ing. Manfred P. Winkler entwickeln und fertigen wir die physische Infrastruktur für die Industrie von morgen.
 
 ​Unsere Kernkompetenzen (Core Services)
 
@@ -20,7 +20,7 @@ Wir passen Konstruktionen so an, dass sie in der CNC-Fertigung kostengünstiger 
 Wir finden mechanische Schwachstellen und beheben sie durch gezieltes Re-Engineering.
 
 ​2. Mechatronischer Sondermaschinenbau
-​Wir konstruieren und bauen intelligente Systeme für sensible Umgebungen.
+​ Wir konstruieren und bauen intelligente Systeme für sensible Umgebungen.
 
 ​Reinraum-Handling: 
 Entwicklung von Komponenten und Handling-Systemen für kontrollierte Industrieumgebungen (Silicon Alps Standard).
