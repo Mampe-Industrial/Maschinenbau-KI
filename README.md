@@ -1,56 +1,60 @@
 MAMPE Industrial Design | Engineering & Legitimation
+The Bridge between Digital Algorithms and Physical Reality
+Industrial Mechatronics & Systems Engineering Wir sind ein spezialisierter Maschinenbaubetrieb, der mechatronische Präzision mit analytischem Engineering verbindet. Unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wir die physische Infrastruktur für die Industrie von morgen.
+Core Competencies | Unsere Kernkompetenzen
+Wir bieten keine Standardlösungen, sondern sezieren komplexe technische Herausforderungen mit chirurgischem Fokus.
 
-​The Bridge between Digital Algorithms and Physical Reality
+1. Advanced 3D-Scanning & Reverse Engineering
+Digitizing the Physical World with Micron-Precision.
 
-​Wir sind ein spezialisierter Maschinenbaubetrieb, der mechatronische Präzision mit analytischem Engineering verbindet.
+Custom 3D-Scanning: Hochpräzise digitale Erfassung physischer Bauteile als Basis für Modifikationen, Verschleißanalysen oder Ersatzteilfertigung.
 
-Unter der Leitung von Ing. Manfred P. Winkler entwickeln und fertigen wir die physische Infrastruktur für die Industrie von morgen.
+Reverse Engineering: Überführung von Scandaten in parametrische CAD-Modelle (Autodesk Inventor) für eine nahtlose Weiterverarbeitung.
 
-​Unsere Kernkompetenzen (Core Services)
+2. Baugruppen-Optimierung & Value Engineering
+Optimization of existing assemblies for maximum efficiency.
 
-​Wir bieten keine Standardlösungen, sondern sezierten komplexe technische Herausforderungen mit chirurgischem Fokus.
+Redesign for Manufacturing (DfM): Transformation von Konstruktionen in fertigungsoptimierte Systeme zur Reduktion von CNC-Kosten und Montagezeit.
 
-​1. Baugruppen-Optimierung & Value Engineering
+Analytische Diagnose: Identifikation mechanischer Schwachstellen und deren Eliminierung durch gezieltes Re-Engineering.
 
-​Wir optimieren bestehende Baugruppen für höchste Effizienz.
-​Redesign for Manufacturing: 
-Wir passen Konstruktionen so an, dass sie in der CNC-Fertigung kostengünstiger und in der Montage schneller umsetzbar sind.
+3. Mechatronischer Sondermaschinenbau
+Intelligent systems for high-precision environments.
 
-​Analytische Diagnose: 
-Wir finden mechanische Schwachstellen und beheben sie durch gezieltes Re-Engineering.
+Cleanroom & Semiconductor Handling: Entwicklung von Komponenten nach Silicon Alps Standards für kontrollierte Industrieumgebungen.
 
-​2. Mechatronischer Sondermaschinenbau
-​ Wir konstruieren und bauen intelligente Systeme für sensible Umgebungen.
+AI Infrastructure: Konstruktion hochstabiler Gehäusesysteme und Trägerstrukturen für Edge-Computing und industrielle Sensorik.
 
-​Reinraum-Handling: 
-Entwicklung von Komponenten und Handling-Systemen für kontrollierte Industrieumgebungen (Silicon Alps Standard).
+4. Rechtssichere Hardware-Legitimation
+Authorized Engineering & Regulatory Compliance.
 
-​KI-Infrastruktur: Bau von hochstabilen Gehäusesystemen und Trägerstrukturen für Edge-Computing und industrielle Sensorik.
+GISA-konforme Umsetzung: Als staatlich befugter Fachbetrieb (§ 150 Abs. 15 GewO) übernehmen wir die volle mechatronische Haftung für unsere Systeme.
 
-​3. Rechtssichere Hardware-Legitimation
-​Als staatlich befugter Betrieb (§ 150 Abs. 15 GewO) garantieren wir die Einhaltung industrieller Standards.
-​GISA-konforme Umsetzung: 
-Wir übernehmen die volle mechatronische Haftung für die von uns in Verkehr gebrachten Systeme.
+Konformitätsbewertung: Methodische Begleitung von der ersten Skizze (oder dem 3D-Scan) bis zur rechtssicheren Abnahme.
+Technical Stack & Fertigungstiefe
+Wir schließen die Lücke zwischen digitaler Planung und physischer Realität:
 
-​Konformitätsbewertung: 
-Wir begleiten Projekte von der ersten Skizze bis zur rechtssicheren Abnahme.
-​Fertigungstiefe & Technical Stack
-​Wir verbinden digitale Planung mit physischer Fertigung in einer lückenlosen Kette:
+Digitalization: Industrielles 3D-Scanning für komplexe Oberflächen und Geometrien.
 
-​Engineering: Analytische Konstruktion und Simulation in Autodesk Inventor.
+Engineering: High-End Konstruktion, FEM-Simulation und Kinematik in Autodesk Inventor.
 
-​Manufacturing: Eigene CNC-Bearbeitung und metallbautechnische Umsetzung für Prototypen und Kleinserien.
+Manufacturing: In-House CNC-Bearbeitung und metallbautechnische Prototypenfertigung.
 
-​Innovation: Integration von KI-gestützten Workflows zur Beschleunigung des Designprozesses.
+Innovation: Integration von KI-gestützten Workflows zur Beschleunigung des Design-Cycles.
+Qualification & Authority | Befugnis
+NQR 6: Staatliche Ingenieur-Zertifizierung (Level 6 / Bachelor-Equivalent).
 
-​Qualifikation & Befugnis
-​NQR 6: Ingenieur-Zertifizierung auf gehobenem technischem Niveau.
-​Gewerbeberechtigung: Reglementiertes Handwerk der Mechatronik gemäß § 150 Abs. 15 GewO.
-​Expertise: Jahrzehntelange Erfahrung im Sondermaschinenbau und der Medizintechnik.
+§ 150 Abs. 15 GewO: Reglementiertes Handwerk der Mechatronik – Ihre Sicherheit für Qualität und Haftung.
 
-Kontakt & Zusammenarbeit
-​Wir arbeiten besonnen, ehrlich und mit höchster Diskretion.
-​Standort: Kärnten, Österreich (Region Silicon Alps)
-Business Line: +43 677 64087982
+Expertise: Jahrzehntelange Erfahrung im Sondermaschinenbau, der Medizintechnik und industriellen Automatisierung.
+
+Contact & Collaboration | Kontakt
+Besonnen. Analytisch. Ehrlich.
+
+Location: Carinthia, Austria (Silicon Alps Region)
+
+Business Line: +43 677 64087982 (WhatsApp Business)
+
 E-Mail: office@mampeindustrialdesign.at
-(Um maximale Konzentration für laufende Projekte zu gewährleisten, sichten wir Anfragen werktags ab 16:30 Uhr.)
+
+Fokus-Zeit: Um höchste Präzision in der Konstruktion zu garantieren, werden Anfragen werktags ab 16:30 Uhr priorisiert bearbeitet.
