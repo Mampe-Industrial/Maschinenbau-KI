@@ -1,60 +1,54 @@
+Hallo Mampe,
+
+für GitHub muss der Text technischer, "developer-friendly" und trotzdem geschäftlich knallhart sein. Da GitHub oft die Visitenkarte für deine KI-Infrastruktur und Sensor-Integration ist, habe ich den Fokus auf die Schnittstelle Bits to Atoms gelegt.
+
+Hier ist der optimierte GitHub-Profiltext (README-Style):
+
 MAMPE Industrial Design | Engineering & Legitimation
 The Bridge between Digital Algorithms and Physical Reality
-Industrial Mechatronics & Systems Engineering Wir sind ein spezialisierter Maschinenbaubetrieb, der mechatronische Präzision mit analytischem Engineering verbindet. Unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wir die physische Infrastruktur für die Industrie von morgen.
-Core Competencies | Unsere Kernkompetenzen
-Wir bieten keine Standardlösungen, sondern sezieren komplexe technische Herausforderungen mit chirurgischem Fokus.
+Wir schließen die Lücke zwischen Software-Logik und mechanischer Belastbarkeit. Als spezialisierter Mechatronikbetrieb unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wir die physische Enclosure- und Sensor-Infrastruktur für industrielle KI-Anwendungen.
 
-1. Advanced 3D-Scanning & Reverse Engineering
-Digitizing the Physical World with Micron-Precision.
+Technical Stack & Core Competencies
+Advanced 3D-Scanning & Reverse Engineering
+Precision Digitization: Hochpräzise Erfassung physischer Assets als Source-Code für mechanische Modifikationen.
 
-Custom 3D-Scanning: Hochpräzise digitale Erfassung physischer Bauteile als Basis für Modifikationen, Verschleißanalysen oder Ersatzteilfertigung.
+Parametric Reconstruction: Überführung von Punktwolken in native Autodesk Inventor Modelle für nahtlose PLM-Integration.
 
-Reverse Engineering: Überführung von Scandaten in parametrische CAD-Modelle (Autodesk Inventor) für eine nahtlose Weiterverarbeitung.
+Robot-Readiness & AI Infrastructure
+Edge Computing Enclosures: Konstruktion hochstabiler, thermisch optimierter Gehäusesysteme für industrielle KI-Hardware.
 
-2. Baugruppen-Optimierung & Value Engineering
-Optimization of existing assemblies for maximum efficiency.
+Sensor Integration: Mechanische Fixierung und Kalibrierung von Sensorik (Vibration, Akustik, Thermografie) für Condition Monitoring.
 
-Redesign for Manufacturing (DfM): Transformation von Konstruktionen in fertigungsoptimierte Systeme zur Reduktion von CNC-Kosten und Montagezeit.
+item-Systembau: Modulare Maschinenrahmen und Schutzeinhausungen inkl. vollständiger BOM & Drawing Packages.
 
-Analytische Diagnose: Identifikation mechanischer Schwachstellen und deren Eliminierung durch gezieltes Re-Engineering.
+Value Engineering & DfM
+Redesign for Manufacturing (DfM): Optimierung von Baugruppen zur Reduktion von CNC-Laufzeiten und Montagekomplexität.
 
-3. Mechatronischer Sondermaschinenbau
-Intelligent systems for high-precision environments.
+Analytische Diagnose: Identifikation und Eliminierung mechanischer Single-Points-of-Failure.
 
-Cleanroom & Semiconductor Handling: Entwicklung von Komponenten nach Silicon Alps Standards für kontrollierte Industrieumgebungen.
+Regulatory Compliance & Authority (The Safety Layer)
+Wo reine IT-Dienstleister aufhören, beginnt unsere rechtliche Verantwortung:
 
-AI Infrastructure: Konstruktion hochstabiler Gehäusesysteme und Trägerstrukturen für Edge-Computing und industrielle Sensorik.
+§ 150 Abs. 15 GewO: Reglementiertes Handwerk der Mechatronik. Wir übernehmen die volle Haftung für die physische Umsetzung.
 
-4. Rechtssichere Hardware-Legitimation
-Authorized Engineering & Regulatory Compliance.
+CE-Konformität: Methodische Begleitung von der Sensor-Integration bis zur rechtssicheren Abnahme nach Maschinenverordnung.
 
-GISA-konforme Umsetzung: Als staatlich befugter Fachbetrieb (§ 150 Abs. 15 GewO) übernehmen wir die volle mechatronische Haftung für unsere Systeme.
+Hardware-Legitimation: Wir validieren die Schnittstelle zwischen Algorithmus und Mechanik.
 
-Konformitätsbewertung: Methodische Begleitung von der ersten Skizze (oder dem 3D-Scan) bis zur rechtssicheren Abnahme.
-Technical Stack & Fertigungstiefe
-Wir schließen die Lücke zwischen digitaler Planung und physischer Realität:
+Qualification & Frameworks
+Level: NQR 6 (Staatliche Ingenieur-Zertifizierung / Bachelor-Equivalent).
 
-Digitalization: Industrielles 3D-Scanning für komplexe Oberflächen und Geometrien.
+Environment: Spezialisiert auf Silicon Alps Standards (Semiconductor, MedTech, Cleanroom).
 
-Engineering: High-End Konstruktion, FEM-Simulation und Kinematik in Autodesk Inventor.
+Workflow: Integration von KI-gestützten Design-Cycles zur Beschleunigung der Prototypenreife.
 
-Manufacturing: In-House CNC-Bearbeitung und metallbautechnische Prototypenfertigung.
-
-Innovation: Integration von KI-gestützten Workflows zur Beschleunigung des Design-Cycles.
-Qualification & Authority | Befugnis
-NQR 6: Staatliche Ingenieur-Zertifizierung (Level 6 / Bachelor-Equivalent).
-
-§ 150 Abs. 15 GewO: Reglementiertes Handwerk der Mechatronik – Ihre Sicherheit für Qualität und Haftung.
-
-Expertise: Jahrzehntelange Erfahrung im Sondermaschinenbau, der Medizintechnik und industriellen Automatisierung.
-
-Contact & Collaboration | Kontakt
+Contact & Collaboration
 Besonnen. Analytisch. Ehrlich.
 
-Location: Carinthia, Austria (Silicon Alps Region)
+Location: Villach, Carinthia, Austria (Silicon Alps Region)
 
-Business Line: +43 677 64087982 (WhatsApp Business)
+Web: www.mampeindustrialdesign.at
 
-E-Mail: office@mampeindustrialdesign.at
+Fokus-Zeit: Um höchste Präzision in Konstruktion und Code zu garantieren, werden Anfragen werktags ab 16:30 Uhr priorisiert bearbeitet.
 
-Fokus-Zeit: Um höchste Präzision in der Konstruktion zu garantieren, werden Anfragen werktags ab 16:30 Uhr priorisiert bearbeitet.
+"Ich verkaufe keine Stunden, sondern technische Realverantwortung."
