@@ -1,54 +1,42 @@
-Hallo Mampe,
+MAMPE Industrial Design | Maschinenbau-KI
+Hardware-Legitimation & Infrastruktur für industrielle KI-Systeme
+„Digitale Algorithmen brauchen einen physischen Körper.“
+Ich schließe die Lücke zwischen Software-Logik und mechanischer Belastbarkeit. Dieses Repository dient als technische Dokumentation und Schnittstellen-Hub für die physische Integration von KI-Systemen in industrielle Bestandsanlagen.
 
-für GitHub muss der Text technischer, "developer-friendly" und trotzdem geschäftlich knallhart sein. Da GitHub oft die Visitenkarte für deine KI-Infrastruktur und Sensor-Integration ist, habe ich den Fokus auf die Schnittstelle Bits to Atoms gelegt.
+Technischer Fokus: Die Brücke
+Während reine IT-Dienstleister bei der Software enden, beginnt für mich die physische Realität. Ich entwickle die Infrastruktur, die KI-Modelle „industriefest“ macht.
 
-Hier ist der optimierte GitHub-Profiltext (README-Style):
+Sensor Integration Layer: Ich konzipiere die mechanische Fixierung und Kalibrierung von High-End Sensorik (Vibration, Akustik, Thermografie).
 
-MAMPE Industrial Design | Engineering & Legitimation
-The Bridge between Digital Algorithms and Physical Reality
-Wir schließen die Lücke zwischen Software-Logik und mechanischer Belastbarkeit. Als spezialisierter Mechatronikbetrieb unter der Leitung von Ing. Manfred P. Winkler (NQR 6) entwickeln und fertigen wir die physische Enclosure- und Sensor-Infrastruktur für industrielle KI-Anwendungen.
+Edge Computing Enclosures: Ich konstruiere thermisch optimierte und EMV-geschützte Gehäusesysteme für GPU-Cluster direkt an der Maschine.
 
-Technical Stack & Core Competencies
-Advanced 3D-Scanning & Reverse Engineering
-Precision Digitization: Hochpräzise Erfassung physischer Assets als Source-Code für mechanische Modifikationen.
+3D Scan-to-CAD Workflow: Ich erfasse physische Assets hochpräzise und wandle sie in „Source Code“ (parametrische CAD-Daten) für mechanische Modifikationen um.
 
-Parametric Reconstruction: Überführung von Punktwolken in native Autodesk Inventor Modelle für nahtlose PLM-Integration.
+Robot-Readiness: Ich entwickle mechatronische Schnittstellen für die effiziente Mensch-Maschine-Kollaboration.
 
-Robot-Readiness & AI Infrastructure
-Edge Computing Enclosures: Konstruktion hochstabiler, thermisch optimierter Gehäusesysteme für industrielle KI-Hardware.
+Die regulatorische Ebene (Haftung & Sicherheit)
+In der Welt der EU-Maschinenverordnung 2023/1230 ist die Hardware-Integration kein Bastelprojekt, sondern eine Haftungsfrage.
 
-Sensor Integration: Mechanische Fixierung und Kalibrierung von Sensorik (Vibration, Akustik, Thermografie) für Condition Monitoring.
+§ 150 Abs. 15 GewO: Als reglementierter Mechatronik-Fachbetrieb übernehme ich die volle rechtliche Haftung für die physische Umsetzung.
 
-item-Systembau: Modulare Maschinenrahmen und Schutzeinhausungen inkl. vollständiger BOM & Drawing Packages.
+Strategische Beratung: Ich validiere Haftungsübergänge an der Schnittstelle Mensch-Software-Maschine.
 
-Value Engineering & DfM
-Redesign for Manufacturing (DfM): Optimierung von Baugruppen zur Reduktion von CNC-Laufzeiten und Montagekomplexität.
+CE-Konformität: Ich begleite Projekte methodisch vom ersten Sensor-Mount bis zur rechtssicheren Abnahme.
 
-Analytische Diagnose: Identifikation und Eliminierung mechanischer Single-Points-of-Failure.
+Frameworks & Standards
+Design: Parametrische Rekonstruktion in Autodesk Inventor (Native PLM Integration).
 
-Regulatory Compliance & Authority (The Safety Layer)
-Wo reine IT-Dienstleister aufhören, beginnt unsere rechtliche Verantwortung:
+Materials: ESD-gerechte Konstruktionen, Halbleiter- & Reinraum-Standards (Silicon Alps Region).
 
-§ 150 Abs. 15 GewO: Reglementiertes Handwerk der Mechatronik. Wir übernehmen die volle Haftung für die physische Umsetzung.
+Strategie: Technical Due Diligence für industrielle Assets.
 
-CE-Konformität: Methodische Begleitung von der Sensor-Integration bis zur rechtssicheren Abnahme nach Maschinenverordnung.
+Qualifikation & Autorität
+Ing. Manfred P. Winkler
 
-Hardware-Legitimation: Wir validieren die Schnittstelle zwischen Algorithmus und Mechanik.
+Wirtschaftsingenieur (HTL)
 
-Qualification & Frameworks
-Level: NQR 6 (Staatliche Ingenieur-Zertifizierung / Bachelor-Equivalent).
+Gewerblich befugter Mechatronik-Fachbetrieb & Strategischer Berater
 
-Environment: Spezialisiert auf Silicon Alps Standards (Semiconductor, MedTech, Cleanroom).
+NQR 6 (Staatliche Ingenieur-Zertifizierung / Bachelor-Equivalent)
 
-Workflow: Integration von KI-gestützten Design-Cycles zur Beschleunigung der Prototypenreife.
-
-Contact & Collaboration
-Besonnen. Analytisch. Ehrlich.
-
-Location: Villach, Carinthia, Austria (Silicon Alps Region)
-
-Web: www.mampeindustrialdesign.at
-
-Fokus-Zeit: Um höchste Präzision in Konstruktion und Code zu garantieren, werden Anfragen werktags ab 16:30 Uhr priorisiert bearbeitet.
-
-"Ich verkaufe keine Stunden, sondern technische Realverantwortung."
+www.mampeindustrialdesign.at | Strategisch. Technisch. Verbindlich.
